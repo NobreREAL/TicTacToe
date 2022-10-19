@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.pdb
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.exe
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.pdb
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Game.resources
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Win.resources
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.GameM.resources
+C:\Users\Lucas\Desktop\Backup\CURSO\C#\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Drawn.resources
